@@ -1,0 +1,86 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+
+
+/*links*/
+a {
+    padding-right: 5px;
+}
+
+
+.introduction {
+    background-color: whitesmoke;
+    border-radius: 8px;
+    opacity: 0.90;
+    box-shadow: 4px 9px 12px 0px rgba(0,0,0,0.18);
+    
+}
+
+#background-position1 {
+    background-image: url("../images/bg1.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin-bottom: 0px;
+    z-index: 1;
+}
+
+#background-position2 {
+    background-image: url("../images/bg3.jpg");
+     background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    
+    
+   
+}
+
+
+
+
+
+#work {
+    background-color: whitesmoke;
+    border-radius: 8px;
+    opacity: 0.90;
+    
+    
+    
+    
+}
+
+
+/*progres*/
+
+
+.progress {
+    margin: 5px;
+    background-color: ghostwhite;
+    height: 17%;
+    font-weight: bold;
+}
+
+.progress-bar {
+    background-color: gray;
+   
+}
+
+.card {
+    opacity: 0.90;
+    border-radius: 8px;
+    margin: 5px;
+}
+
+.footer {
+    background-color: #4a4a4f;
+    padding: 15px;
+}
+
+
