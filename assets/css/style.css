@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:500&display=swap');
+
 body {
     margin: 0;
     padding: 0;
@@ -17,6 +19,9 @@ a {
     border-radius: 8px;
     opacity: 0.90;
     box-shadow: 4px 9px 12px 0px rgba(0,0,0,0.18);
+    transform: scale(1, 1.1);
+    
+    
     
 }
 
@@ -78,9 +83,6 @@ a {
     margin: 5px;
 }
 
-.footer {
-    background-color: #4a4a4f;
-    padding: 15px;
-}
+
 
 
