@@ -1,9 +1,14 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:500&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+html {
+  scroll-behavior: smooth;
+}
 
 body {
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
+    font-family: 'Roboto', sans-serif;
 }
 
 
@@ -47,6 +52,14 @@ a {
    
 }
 
+#contact {
+      
+    
+  
+   
+    
+}
+
 
 
 
@@ -85,4 +98,39 @@ a {
 
 
 
+/*icons*/
 
+.fa-facebook {
+    color: dimgray;
+}
+
+
+
+.fa-linkedin {
+    color: dimgray;
+}
+
+.fa-file-download {
+    color: dimgray
+}
+
+
+
+
+
+
+#skills {
+    
+    padding-bottom: 50px;
+    background-color: #E9EDF0;
+}
+
+@media (min-width: 992px) {
+    #contact {
+        background-image: url('../images/bgemail.jpg');
+        background-attachment: fixed;
+        background-size: cover;
+        background-position: center center;
+        background-repeat: no-repeat;
+    }
+}
