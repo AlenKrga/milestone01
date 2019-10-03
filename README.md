@@ -18,7 +18,7 @@ Some features are disabled and they will be updated in the future:
 
 Portfolio link
 
-A live demo can be found  [HERE](https://github.com/AlenKrga/milestone01)
+A live demo can be found  [HERE](https://alenkrga.github.io/milestone01/index.html)
 
 ## UX
 
