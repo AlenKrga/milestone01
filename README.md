@@ -6,7 +6,8 @@ Stream One Project: User Centric Frontend Development - Code Institute
 
 This is my first website portfolio.
 This project intended to test my skills and understanding everything
-what I learned until this point.
+what I learned until this point. English is my second language so I tried to explain
+everything in short notes.
 
 I plan to update this project when I complete the CodeInstitute course and add more content and projects to present future recruiters.
 
@@ -63,6 +64,7 @@ To clone this project from GitHub:
 git clone https://github.com/USERNAME/REPOSITORY
 
 7.  Press Enter and your local clone will be created.
+8.  Double click the index.html file to open the website in your browser.
 
 ## Credits
 
