@@ -6,8 +6,7 @@ Stream One Project: User Centric Frontend Development - Code Institute
 
 This is my first website portfolio.
 This project intended to test my skills and understanding everything
-what I learned until this point. English is my second language so I tried to explain
-everything in short notes.
+what I learned until this point. 
 
 I plan to update this project when I complete the CodeInstitute course and add more content and projects to present future recruiters.
 
